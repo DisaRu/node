@@ -1,0 +1,19 @@
+{
+  "name": "lessons",
+  "version": "1.0.0",
+  "description": "Try learn javascrip and node.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DisaRu/node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DisaRu/node.js/issues"
+  },
+  "homepage": "https://github.com/DisaRu/node.js#readme"
+}
